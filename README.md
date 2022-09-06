@@ -1,4 +1,4 @@
-Hi my name is Furkan YILDIRIM
+Hi i am Furkan YILDIRIM
 
 I graduated from Marmara University Computer Programming Department.
 I am a mobile application and game developer.
